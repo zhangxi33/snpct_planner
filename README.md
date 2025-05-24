@@ -25,7 +25,6 @@ Based on SNPCT, we formulate and solve the path-velocity coupled trajectory plan
 Once the paper is accepted, the following will be made publicly available:
 
 - Full source code
-- Experiment setups and dataset
 - Step-by-step tutorial for running the planner
 
 ## License
