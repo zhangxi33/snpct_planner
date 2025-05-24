@@ -29,7 +29,7 @@ Once the paper is accepted, the following will be made publicly available:
 
 ## License
 
-[Specify License Here, e.g., MIT License]
+
 
 ---
 
